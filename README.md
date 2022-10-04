@@ -9,5 +9,7 @@ You can see them <b>live</b> in the following link [apostolos172.github.io/commu
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
 ## And some illustrative screenshots
+### Task 5
 ![Task 5](https://github.com/Apostolos172/communication-systems/blob/master/screenshots/Screenshot_Virtual_ask_5.png?raw=true)
+### Task 7
 ![Task 7](https://github.com/Apostolos172/communication-systems/blob/master/screenshots/Screenshot_Virtual_ask_7.png?raw=true)   
