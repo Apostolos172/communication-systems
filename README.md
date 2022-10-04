@@ -10,6 +10,7 @@ You can see them <b>live</b> in the following link [apostolos172.github.io/commu
 - [Google Charts](https://developers.google.com/chart/interactive/docs) such as [Line Charts](https://developers.google.com/chart/interactive/docs/gallery/linechart) and [Tables](https://developers.google.com/chart/interactive/docs/gallery/table)
 
 ## And some illustrative screenshots
+
 ### Task 5
 ![Task 5](https://github.com/Apostolos172/communication-systems/blob/master/screenshots/Screenshot_Virtual_ask_5.png?raw=true)
 ### Task 7
