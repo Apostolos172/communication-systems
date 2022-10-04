@@ -7,6 +7,7 @@ You can see them <b>live</b> in the following link [apostolos172.github.io/commu
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+- [Google Charts](https://developers.google.com/chart/interactive/docs) such as [Line Charts](https://developers.google.com/chart/interactive/docs/gallery/linechart) and [Tables](https://developers.google.com/chart/interactive/docs/gallery/table)
 
 ## And some illustrative screenshots
 ### Task 5
