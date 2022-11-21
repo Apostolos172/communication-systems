@@ -1,7 +1,7 @@
 # communications-systems
 Projects which were created for communications systems course of my university studies, for different metrics of the communications systems
 
-You can see them <b>live</b> in the following link [apostolos172.github.io/communication-systems/](https://apostolos172.github.io/communication-systems/)
+You can see them <b>live</b> in the following link [apostolos172.github.io/communication-systems/](https://apostolos172.github.io/communication-systems/) or [communication-systems.vercel.app](https://communication-systems.vercel.app/)
 
 ## Build with
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
